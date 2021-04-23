@@ -1,0 +1,17 @@
+Quản lý devops
+20% các task assign, công việc phân bổ, estimate, phân bổ thời gian trong sprint, backlog, kéo task đúng hạn
+Vận hành scrum
+nhận việc ngay đầu sprint, daily meeting, sprint review, restropective meeting
+Github
+history trên github
+quản lý thời gian một phần trong quản lý devops
+chất lượng sản phẩm trước quá trình báo cáo
+Đủ chức năng, số bugs phát hiện, actions
+
+Tổng quan dự án
+Công nghệ công cụ sử dụng
+PB (trong quá trình thực hiện nếu có thay đổi thì trình bày cụ thể)
+Cơ cấu tổ chức dự án
+Quá trình thực thi dự án (trình bày các sprint, các chức năng, effort, số task hoàn thành, burndownchart,...)
+Thống kê effort: từng member, từng sprint, tổng(plan và thực tế)
+Thống kê cống hiến/đóng góp cho dự án của từng member (coi sự thành công của dự án là 100% thì mỗi mem đóng góp bao nhiêu %)
